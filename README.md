@@ -1,6 +1,7 @@
 # Dashboard React com ASP.NET
 
 Este é um projeto de exemplo de um dashboard desenvolvido usando o framework React com Ant Design para o frontend e o framework ASP.NET para o backend.
+Aqui eu apresento o frontend da aplicação
 
 ## Ferramentas usadas
 
