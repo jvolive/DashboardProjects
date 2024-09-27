@@ -1,0 +1,19 @@
+.kanban-container {
+  margin: 24px 16px;
+  padding: 24px;
+  min-height: 280px;
+  background: #ffffff;
+  border-radius: 15px;
+}
+
+.kanban-column.todo {
+  background-color: #ffa500;
+}
+
+.kanban-column.inprogress {
+  background-color: #87ceeb;
+}
+
+.kanban-column.done {
+  background-color: #98fb98;
+}

@@ -1,0 +1,30 @@
+.toggle-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  height: 50px;
+
+  .toggle-menu-button-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex: 0 0 auto;
+  }
+
+  .search-input-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+
+    .ant-input-search {
+      height: 30px;
+      font-size: 14px;
+    }
+  }
+
+  div {
+    display: flex;
+    align-items: center;
+  }
+}
